@@ -75,7 +75,7 @@
             android:singleLine="true"
             android:textColor="?android:textColorSecondary"
             android:textSize="18sp"
-            tools:text="PixelExperience_device-10.0-20200115-2020-OFFICIAL.zip" />
+            tools:text="PixelPlusUI_3.1_device-11.0-20210216-1216-OFFICIAL.zip" />
 
         <TextView
             android:id="@+id/build_date"
@@ -86,7 +86,7 @@
             android:maxLines="2"
             android:textColor="?android:textColorSecondary"
             android:textSize="14sp"
-            tools:text="15 January 2020" />
+            tools:text="16 February 2021" />
 
         <TextView
             android:id="@+id/build_size"
